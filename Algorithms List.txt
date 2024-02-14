@@ -1,0 +1,66 @@
+Sure! Here's a list of algorithms that are commonly covered in software engineering interviews:
+
+1. Sorting algorithms:
+   - Bubble sort
+   - Selection sort -------> DONE
+   - Insertion sort -------> DONE
+   - Merge sort
+   - Quick sort
+   - Heap sort
+   - Radix sort
+
+2. Searching algorithms:
+   - Linear search
+   - Binary search
+
+3. Graph algorithms:
+   - Breadth-first search (BFS)
+   - Depth-first search (DFS)
+   - Dijkstra's algorithm (for finding shortest paths in weighted graphs)
+   - Bellman-Ford algorithm (for finding shortest paths in weighted graphs with negative edges)
+   - Floyd-Warshall algorithm (for finding shortest paths in weighted graphs with negative cycles)
+   - Prim's algorithm (for finding minimum spanning trees)
+   - Kruskal's algorithm (for finding minimum spanning trees)
+
+4. Dynamic programming:
+   - Fibonacci sequence
+   - Longest common subsequence
+   - Knapsack problem
+   - Matrix chain multiplication
+   - Longest increasing subsequence
+
+5. String algorithms:
+   - String searching algorithms (e.g., KMP, Rabin-Karp)
+   - String matching algorithms (e.g., Levenshtein distance, Hamming distance)
+   - Regular expression matching
+
+6. Tree algorithms:
+   - Binary tree traversal (in-order, pre-order, post-order)
+   - Binary search tree (insertion, deletion, search)
+   - AVL trees (balancing operations)
+   - Red-Black trees (balancing operations)
+   - Segment trees (for range queries and updates)
+   - Trie (prefix tree)
+
+7. Bit manipulation:
+   - Bitwise operations (AND, OR, XOR, NOT)
+   - Bitwise shifting
+   - Bitwise manipulation tricks (e.g., setting, clearing, toggling bits)
+   - Bit counting (popcount)
+
+8. Divide and conquer:
+   - Closest pair of points
+   - Maximum subarray sum
+   - Strassen's matrix multiplication
+
+9. Greedy algorithms:
+   - Activity selection problem
+   - Fractional knapsack problem
+   - Huffman coding
+
+10. Miscellaneous:
+    - Hashing techniques (e.g., hash tables, hash functions, collision resolution)
+    - Backtracking (e.g., N-Queens problem)
+    - Sliding window technique
+    - Two-pointer technique
+    - Topological sorting
