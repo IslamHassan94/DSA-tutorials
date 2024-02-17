@@ -4,8 +4,8 @@ Sure! Here's a list of algorithms that are commonly covered in software engineer
    - Bubble sort
    - Selection sort -------> DONE
    - Insertion sort -------> DONE
-   - Merge sort
-   - Quick sort
+   - Merge sort  ----------> DONE
+   - Quick sort  ----------> DONE
    - Heap sort
    - Radix sort
 
